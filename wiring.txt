@@ -1,0 +1,12 @@
+Wired to a Raspberry PI
+
+3.3V
+ |
+Footpedal
+ |
+ *-----0.33k Resistor------Pin 10 (AKA GPIO 15)
+ |
+10k Resistor
+ |
+GND
+
